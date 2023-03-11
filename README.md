@@ -1,0 +1,3 @@
+# introductionToNeuralNetworks
+General theme of the projects is biological aging of autonomic regulation in healthy populations. Second project focuses on Machine Learning where I predict age of patients using linear regression. 
+I was using data given from my teacher that consiisted of 180 txt files, each one with two columns. First one is indicating number of heart contraction. However, not always the following number is greater by one from the previous. Thats why I use function to check that condition so I could calculate difference between successive peaks. The second column is giving information about single value for each peak. 
